@@ -10,11 +10,26 @@
     using System.Threading.Tasks;
     using System.Windows.Forms;
 
-    public partial class Form1 : Form
+    public partial class FrmLogin : Form
     {
-        public Form1()
+        public FrmLogin()
         {
             InitializeComponent();
+        }
+
+        private void FrmLogin_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void BtnLogin_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void BtnExit_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
