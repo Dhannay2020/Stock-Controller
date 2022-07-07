@@ -58,6 +58,12 @@
     <Compile Include="FrmChangePassword.Designer.cs">
       <DependentUpon>FrmChangePassword.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmDataGrid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDataGrid.Designer.cs">
+      <DependentUpon>FrmDataGrid.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmLogin.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -77,6 +83,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FrmChangePassword.resx">
       <DependentUpon>FrmChangePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDataGrid.resx">
+      <DependentUpon>FrmDataGrid.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmLogin.resx">
       <DependentUpon>FrmLogin.cs</DependentUpon>

@@ -76,5 +76,35 @@
         {
 
         }
+
+        private void WarehouseLocationsToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void WarehouseOrderPickToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void WarehouseStockTakeToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ShopRefundsToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ShopLocationsToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ShopStockTakeToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
